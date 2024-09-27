@@ -1,0 +1,67 @@
+[
+  {
+    "id":1,
+    "name": "Ann D silva",
+    "age": "22",
+    "email": "annd@gmail.com",
+    "rollno": "123",
+    "active":true,
+    "mobile":"0770590678",
+    "address":"No 52, Gallroad, Mounlavinia",
+    "img":"https://res.cloudinary.com/dkbk51c9j/image/upload/v1666879695/images_xpies0.jpg"
+  },
+  {
+    "id":2,
+    "name": "Androw Saimon",
+    "age": "21",
+    "email": "simon123@gmail.com",
+    "rollno": "456",
+    "active":true,
+    "mobile":"0112545257",
+    "address":"No 34, Rawathawatta, Moratuwa",
+    "img":"https://res.cloudinary.com/dkbk51c9j/image/upload/v1666879731/209536-360-f-364211147-1qglvxv1tcq0ohz3fawufrtonzz8nq3e_kj2iet.jpg"
+  },
+  {
+    "id":3,
+    "name": "David Gusta",
+    "age": "23",
+    "email": "davidgusto@gmail.com",
+    "rollno": "789",
+    "active":true,
+    "mobile":"0710025631",
+    "address":"No 8/A, Miriswatta, Gampaha",
+    "img":"https://res.cloudinary.com/dkbk51c9j/image/upload/v1666879750/istockphoto-1300512215-170667a_bz0jbk.jpg"
+  },
+  {
+    "id":5,
+    "name": "Jone Snow",
+    "age": "21",
+    "email": "john@gmail.com",
+    "rollno": "456",
+    "active":true,
+    "mobile":"0708892234",
+    "address":"No 23, Down street, Melbone",
+    "img":"https://res.cloudinary.com/dkbk51c9j/image/upload/v1666590497/Quincy-Larson-photo_feelkr.jpg"
+  },
+  {
+    "id":4,
+    "name": "Josi Blake",
+    "age": "22",
+    "email": "Jisi89@gmail.com",
+    "rollno": "123",
+    "active":false,
+    "mobile":"076214523",
+    "address":"No 52, Gallroad, Mounlavinia",
+    "img":"https://res.cloudinary.com/dkbk51c9j/image/upload/v1666883568/istockphoto-1189198083-170667a_bw1gzk.jpg"
+  },
+  {
+    "id":6,
+    "name": "Cruze Williyam",
+    "age": "23",
+    "email": "cruzebks@florida.com",
+    "rollno": "789",
+    "active":true,
+    "mobile":"071222226",
+    "address":"No 21/B, new town, Malesia",
+    "img":"https://res.cloudinary.com/dkbk51c9j/image/upload/v1666883607/woman-5157666__340_fipbl3.jpg"
+}]
